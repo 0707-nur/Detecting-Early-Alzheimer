@@ -7,9 +7,33 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# TABLE OF CONTENT
 
-_Get started using GitHub in less than an hour._
+_Problem Statement
+Data
+Dataset Description
+Column Descriptors
+Related Work
+Exploratory Data Analysis
+Data Precrocessing
+Removing rows with missing values
+Imputation
+Splitting Train/Validation/Test Sets
+Cross-validation
+Model
+Performance Measure
+Logistic Regression
+Support Vector Machine
+Decision Tree
+Random Forest Classifier
+AdaBoost
+Conclusion
+Results
+Unique Approach
+Implementation
+Limitation
+Further Research
+Acknowledgements_
 
 </header>
 
